@@ -16,12 +16,16 @@
    <div align="center">
      In this project, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a video sharing application. 
 
-https://www.youtube.com/watch?v=ZBCUegTZF7M&t=976s&ab_channel=JavaScriptMastery
 
-https://github.com/adrianhajdin
+
 </div>
 </div>
-
+<div align="center">
+    <br><br>
+    <a href="https://www.youtube.com/watch?v=ZBCUegTZF7M&t=976s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
+    <br>
+    <a href="https://github.com/adrianhajdin" target="_blank">Adrian Hajdin GitHub</a>
+</div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
