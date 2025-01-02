@@ -14,7 +14,7 @@
 <h3 align="center">Video Sharing App</h3>
 
    <div align="center">
-     In this project, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a video sharing application. 
+     In this project, I am coding along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a video sharing application. 
 
 
 
